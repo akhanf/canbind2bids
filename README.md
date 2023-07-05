@@ -7,3 +7,6 @@ Run full bids conversion with:
 ```
 snakemake -j1 all_unzip && snakemake -j1 all_bids"
 ```
+
+
+Update July 5, 2023 - replaced the DTI data from updated CAN-BIND packages
